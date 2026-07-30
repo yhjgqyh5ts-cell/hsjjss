@@ -1,7 +1,5 @@
-git add .                                ║
-║     git commit -m "Initial commit"          ║
-║     git branch -M main                       ║
-║     git remote add origin                    ║
-║       https://github.com/mahi-cyberaware/    ║
-║         ethical-hacking-tools-installer.git  ║
-║     git push -u origin main 
+git add 
+git commit -m "Initial commit"
+git branch -M main
+git remote add origin https://github.com/mahi-cyberaware/ethical-hacking-tools-installer.git  ║
+git push -u origin main 
